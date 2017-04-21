@@ -15,7 +15,7 @@
     <section>
         <h2>You are now connected to the database</h2>
 
-        <p><a href="allMovies.php">All Marvel Movies</a></p>
+        <p><a href="allExperiment.php">All Marvel Movies</a></p>
         <p><a href="moviesAfter2010.php">All Marvel Movies Produced after 2010</a></p>
         <p><a href="xMenMovies.php">All X-MEN Movies</a></p>
         <p><a href="myBootstrapTheme.html">Simply Me Theme</a></p>

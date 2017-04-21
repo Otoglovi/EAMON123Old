@@ -5,7 +5,7 @@
  * Date: 14-Apr-17
  * Time: 01:33 AM
  */
-include("dbConnect.php"); //Establishing connection with database
+include("allUsers.php"); //Establishing connection with database
 
 print " dbhost - " . $connectstr_dbhost . "<br>";
 print " dbname- " . $connectstr_dbname . "<br>";

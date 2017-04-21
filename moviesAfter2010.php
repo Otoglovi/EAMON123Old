@@ -13,7 +13,7 @@ index.html<!DOCTYPE html>
         <h2>List of all Marvel Movies Produced after 2010</h2>
         <?php
         //Establish connection with database
-        include 'dbConnect.php';
+        include 'allUsers.php';
         // create a SQL query as a string
         $sql_query = "SELECT * FROM marvelmovies WHERE yearReleased > '2010';";
         // execute the SQL query
