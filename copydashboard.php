@@ -42,7 +42,7 @@
 <!-- Main navbar -->
 <div class="navbar navbar-inverse">
     <div class="navbar-header">
-        <a class="navbar-brand" href="index.html"><img src="assets/images/logo_light.png" alt=""></a>
+        <a class="navbar-brand" href="index.php"><img src="assets/images/logo_light.png" alt=""></a>
 
         <ul class="nav navbar-nav visible-xs-block">
             <li><a data-toggle="collapse" data-target="#navbar-mobile"><i class="icon-tree5"></i></a></li>
@@ -55,7 +55,7 @@
             <li><a class="sidebar-control sidebar-main-toggle hidden-xs"><i class="icon-paragraph-justify3"></i></a></li>
 
             <li class="dropdown">
-                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown">
+                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown">
                     <i class="icon-git-compare"></i>
                     <span class="visible-xs-inline-block position-right">Git updates</span>
                     <span class="badge bg-warning-400">9</span>
@@ -65,25 +65,25 @@
                     <div class="dropdown-content-heading">
                         Git updates
                         <ul class="icons-list">
-                            <li><a href="index.html#"><i class="icon-sync"></i></a></li>
+                            <li><a href="index.php#"><i class="icon-sync"></i></a></li>
                         </ul>
                     </div>
 
                     <ul class="media-list dropdown-content-body width-350">
                         <li class="media">
                             <div class="media-left">
-                                <a href="index.html#" class="btn border-primary text-primary btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-pull-request"></i></a>
+                                <a href="index.php#" class="btn border-primary text-primary btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-pull-request"></i></a>
                             </div>
 
                             <div class="media-body">
-                                Drop the IE <a href="index.html#">specific hacks</a> for temporal inputs
+                                Drop the IE <a href="index.php#">specific hacks</a> for temporal inputs
                                 <div class="media-annotation">4 minutes ago</div>
                             </div>
                         </li>
 
                         <li class="media">
                             <div class="media-left">
-                                <a href="index.html#" class="btn border-warning text-warning btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-commit"></i></a>
+                                <a href="index.php#" class="btn border-warning text-warning btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-commit"></i></a>
                             </div>
 
                             <div class="media-body">
@@ -94,29 +94,29 @@
 
                         <li class="media">
                             <div class="media-left">
-                                <a href="index.html#" class="btn border-info text-info btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-branch"></i></a>
+                                <a href="index.php#" class="btn border-info text-info btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-branch"></i></a>
                             </div>
 
                             <div class="media-body">
-                                <a href="index.html#">Chris Arney</a> created a new <span class="text-semibold">Design</span> branch
+                                <a href="index.php#">Chris Arney</a> created a new <span class="text-semibold">Design</span> branch
                                 <div class="media-annotation">2 hours ago</div>
                             </div>
                         </li>
 
                         <li class="media">
                             <div class="media-left">
-                                <a href="index.html#" class="btn border-success text-success btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-merge"></i></a>
+                                <a href="index.php#" class="btn border-success text-success btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-merge"></i></a>
                             </div>
 
                             <div class="media-body">
-                                <a href="index.html#">Eugene Kopyov</a> merged <span class="text-semibold">Master</span> and <span class="text-semibold">Dev</span> branches
+                                <a href="index.php#">Eugene Kopyov</a> merged <span class="text-semibold">Master</span> and <span class="text-semibold">Dev</span> branches
                                 <div class="media-annotation">Dec 18, 18:36</div>
                             </div>
                         </li>
 
                         <li class="media">
                             <div class="media-left">
-                                <a href="index.html#" class="btn border-primary text-primary btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-pull-request"></i></a>
+                                <a href="index.php#" class="btn border-primary text-primary btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-pull-request"></i></a>
                             </div>
 
                             <div class="media-body">
@@ -127,7 +127,7 @@
                     </ul>
 
                     <div class="dropdown-content-footer">
-                        <a href="index.html#" data-popup="tooltip" title="All activity"><i class="icon-menu display-block"></i></a>
+                        <a href="index.php#" data-popup="tooltip" title="All activity"><i class="icon-menu display-block"></i></a>
                     </div>
                 </div>
             </li>
@@ -153,7 +153,7 @@
             </li>
 
             <li class="dropdown">
-                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown">
+                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown">
                     <i class="icon-bubbles4"></i>
                     <span class="visible-xs-inline-block position-right">Messages</span>
                     <span class="badge bg-warning-400">2</span>
@@ -163,7 +163,7 @@
                     <div class="dropdown-content-heading">
                         Messages
                         <ul class="icons-list">
-                            <li><a href="index.html#"><i class="icon-compose"></i></a></li>
+                            <li><a href="index.php#"><i class="icon-compose"></i></a></li>
                         </ul>
                     </div>
 
@@ -175,7 +175,7 @@
                             </div>
 
                             <div class="media-body">
-                                <a href="index.html#" class="media-heading">
+                                <a href="index.php#" class="media-heading">
                                     <span class="text-semibold">James Alexander</span>
                                     <span class="media-annotation pull-right">04:58</span>
                                 </a>
@@ -191,7 +191,7 @@
                             </div>
 
                             <div class="media-body">
-                                <a href="index.html#" class="media-heading">
+                                <a href="index.php#" class="media-heading">
                                     <span class="text-semibold">Margo Baker</span>
                                     <span class="media-annotation pull-right">12:16</span>
                                 </a>
@@ -203,7 +203,7 @@
                         <li class="media">
                             <div class="media-left"><img src="assets/images/demo/users/face24.jpg" class="img-circle img-sm" alt=""></div>
                             <div class="media-body">
-                                <a href="index.html#" class="media-heading">
+                                <a href="index.php#" class="media-heading">
                                     <span class="text-semibold">Jeremy Victorino</span>
                                     <span class="media-annotation pull-right">22:48</span>
                                 </a>
@@ -215,7 +215,7 @@
                         <li class="media">
                             <div class="media-left"><img src="assets/images/demo/users/face4.jpg" class="img-circle img-sm" alt=""></div>
                             <div class="media-body">
-                                <a href="index.html#" class="media-heading">
+                                <a href="index.php#" class="media-heading">
                                     <span class="text-semibold">Beatrix Diaz</span>
                                     <span class="media-annotation pull-right">Tue</span>
                                 </a>
@@ -227,7 +227,7 @@
                         <li class="media">
                             <div class="media-left"><img src="assets/images/demo/users/face25.jpg" class="img-circle img-sm" alt=""></div>
                             <div class="media-body">
-                                <a href="index.html#" class="media-heading">
+                                <a href="index.php#" class="media-heading">
                                     <span class="text-semibold">Richard Vango</span>
                                     <span class="media-annotation pull-right">Mon</span>
                                 </a>
@@ -238,7 +238,7 @@
                     </ul>
 
                     <div class="dropdown-content-footer">
-                        <a href="index.html#" data-popup="tooltip" title="All messages"><i class="icon-menu display-block"></i></a>
+                        <a href="index.php#" data-popup="tooltip" title="All messages"><i class="icon-menu display-block"></i></a>
                     </div>
                 </div>
             </li>
@@ -251,12 +251,12 @@
                 </a>
 
                 <ul class="dropdown-menu dropdown-menu-right">
-                    <li><a href="index.html#"><i class="icon-user-plus"></i> My profile</a></li>
-                    <li><a href="index.html#"><i class="icon-coins"></i> My balance</a></li>
-                    <li><a href="index.html#"><span class="badge bg-teal-400 pull-right">58</span> <i class="icon-comment-discussion"></i> Messages</a></li>
+                    <li><a href="index.php#"><i class="icon-user-plus"></i> My profile</a></li>
+                    <li><a href="index.php#"><i class="icon-coins"></i> My balance</a></li>
+                    <li><a href="index.php#"><span class="badge bg-teal-400 pull-right">58</span> <i class="icon-comment-discussion"></i> Messages</a></li>
                     <li class="divider"></li>
-                    <li><a href="index.html#"><i class="icon-cog5"></i> Account settings</a></li>
-                    <li><a href="index.html#"><i class="icon-switch2"></i> Logout</a></li>
+                    <li><a href="index.php#"><i class="icon-cog5"></i> Account settings</a></li>
+                    <li><a href="index.php#"><i class="icon-switch2"></i> Logout</a></li>
                 </ul>
             </li>
         </ul>
@@ -269,25 +269,25 @@
 <div class="page-header">
     <div class="breadcrumb-line">
         <ul class="breadcrumb">
-            <li><a href="index.html"><i class="icon-home2 position-left"></i> Home</a></li>
+            <li><a href="index.php"><i class="icon-home2 position-left"></i> Home</a></li>
             <li class="active">Dashboard</li>
         </ul>
 
         <ul class="breadcrumb-elements">
-            <li><a href="index.html#"><i class="icon-comment-discussion position-left"></i> Support</a></li>
+            <li><a href="index.php#"><i class="icon-comment-discussion position-left"></i> Support</a></li>
             <li class="dropdown">
-                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown">
+                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown">
                     <i class="icon-gear position-left"></i>
                     Settings
                     <span class="caret"></span>
                 </a>
 
                 <ul class="dropdown-menu dropdown-menu-right">
-                    <li><a href="index.html#"><i class="icon-user-lock"></i> Account security</a></li>
-                    <li><a href="index.html#"><i class="icon-statistics"></i> Analytics</a></li>
-                    <li><a href="index.html#"><i class="icon-accessibility"></i> Accessibility</a></li>
+                    <li><a href="index.php#"><i class="icon-user-lock"></i> Account security</a></li>
+                    <li><a href="index.php#"><i class="icon-statistics"></i> Analytics</a></li>
+                    <li><a href="index.php#"><i class="icon-accessibility"></i> Accessibility</a></li>
                     <li class="divider"></li>
-                    <li><a href="index.html#"><i class="icon-gear"></i> All settings</a></li>
+                    <li><a href="index.php#"><i class="icon-gear"></i> All settings</a></li>
                 </ul>
             </li>
         </ul>
@@ -300,9 +300,9 @@
 
         <div class="heading-elements">
             <div class="heading-btn-group">
-                <a href="index.html#" class="btn btn-link btn-float has-text"><i class="icon-bars-alt text-primary"></i><span>Statistics</span></a>
-                <a href="index.html#" class="btn btn-link btn-float has-text"><i class="icon-calculator text-primary"></i> <span>Invoices</span></a>
-                <a href="index.html#" class="btn btn-link btn-float has-text"><i class="icon-calendar5 text-primary"></i> <span>Schedule</span></a>
+                <a href="index.php#" class="btn btn-link btn-float has-text"><i class="icon-bars-alt text-primary"></i><span>Statistics</span></a>
+                <a href="index.php#" class="btn btn-link btn-float has-text"><i class="icon-calculator text-primary"></i> <span>Invoices</span></a>
+                <a href="index.php#" class="btn btn-link btn-float has-text"><i class="icon-calendar5 text-primary"></i> <span>Schedule</span></a>
             </div>
         </div>
     </div>
@@ -325,13 +325,13 @@
                     <div class="category-title h6">
                         <span>Main navigation</span>
                         <ul class="icons-list">
-                            <li><a href="index.html#" data-action="collapse"></a></li>
+                            <li><a href="index.php#" data-action="collapse"></a></li>
                         </ul>
                     </div>
 
                     <div class="category-content sidebar-user">
                         <div class="media">
-                            <a href="index.html#" class="media-left"><img src="assets/images/demo/users/face11.jpg" class="img-circle img-sm" alt=""></a>
+                            <a href="index.php#" class="media-left"><img src="assets/images/demo/users/face11.jpg" class="img-circle img-sm" alt=""></a>
                             <div class="media-body">
                                 <span class="media-heading text-semibold">Victoria Baker</span>
                                 <div class="text-size-mini text-muted">
@@ -342,7 +342,7 @@
                             <div class="media-right media-middle">
                                 <ul class="icons-list">
                                     <li>
-                                        <a href="index.html#"><i class="icon-cog3"></i></a>
+                                        <a href="index.php#"><i class="icon-cog3"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -354,9 +354,9 @@
 
                             <!-- Main -->
                             <li class="navigation-header"><span>Main</span> <i class="icon-menu" title="Main pages"></i></li>
-                            <li class="active"><a href="index.html"><i class="icon-home4"></i> <span>Dashboard</span></a></li>
+                            <li class="active"><a href="index.php"><i class="icon-home4"></i> <span>Dashboard</span></a></li>
                             <li>
-                                <a href="index.html#"><i class="icon-stack2"></i> <span>Page layouts</span></a>
+                                <a href="index.php#"><i class="icon-stack2"></i> <span>Page layouts</span></a>
                                 <ul>
                                     <li><a href="layout_navbar_main_fixed.html">Fixed main navbar</a></li>
                                     <li><a href="layout_navbar_secondary_fixed.html">Fixed secondary navbar</a></li>
@@ -372,18 +372,18 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-copy"></i> <span>Layouts</span></a>
+                                <a href="index.php#"><i class="icon-copy"></i> <span>Layouts</span></a>
                                 <ul>
                                     <li><a href="http://demo.interface.club/limitless/layout_1/LTR/default/index.html" id="layout1">Layout 1</a></li>
                                     <li><a href="http://demo.interface.club/limitless/layout_2/LTR/default/index.html" id="layout2">Layout 2</a></li>
-                                    <li><a href="index.html" id="layout3">Layout 3 <span class="label bg-warning-400">Current</span></a></li>
+                                    <li><a href="index.php" id="layout3">Layout 3 <span class="label bg-warning-400">Current</span></a></li>
                                     <li><a href="http://demo.interface.club/limitless/layout_4/LTR/default/index.html" id="layout4">Layout 4</a></li>
                                     <li><a href="http://demo.interface.club/limitless/layout_5/LTR/default/index.html" id="layout5">Layout 5</a></li>
                                     <li class="disabled"><a href="http://demo.interface.club/limitless/layout_6/LTR/default/index.html" id="layout6">Layout 6 <span class="label label-transparent">Coming soon</span></a></li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-droplet2"></i> <span>Color system</span></a>
+                                <a href="index.php#"><i class="icon-droplet2"></i> <span>Color system</span></a>
                                 <ul>
                                     <li><a href="colors_primary.html">Primary palette</a></li>
                                     <li><a href="colors_danger.html">Danger palette</a></li>
@@ -405,13 +405,13 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-stack"></i> <span>Starter kit</span></a>
+                                <a href="index.php#"><i class="icon-stack"></i> <span>Starter kit</span></a>
                                 <ul>
                                     <li><a href="starters/horizontal_nav.html">Horizontal navigation</a></li>
                                     <li><a href="starters/1_col.html">1 column</a></li>
                                     <li><a href="starters/2_col.html">2 columns</a></li>
                                     <li>
-                                        <a href="index.html#">3 columns</a>
+                                        <a href="index.php#">3 columns</a>
                                         <ul>
                                             <li><a href="starters/3_col_dual.html">Dual sidebars</a></li>
                                             <li><a href="starters/3_col_double.html">Double sidebars</a></li>
@@ -433,7 +433,7 @@
                             <!-- Forms -->
                             <li class="navigation-header"><span>Forms</span> <i class="icon-menu" title="Forms"></i></li>
                             <li>
-                                <a href="index.html#"><i class="icon-pencil3"></i> <span>Form components</span></a>
+                                <a href="index.php#"><i class="icon-pencil3"></i> <span>Form components</span></a>
                                 <ul>
                                     <li><a href="form_inputs_basic.html">Basic inputs</a></li>
                                     <li><a href="form_checkboxes_radios.html">Checkboxes &amp; radios</a></li>
@@ -441,7 +441,7 @@
                                     <li><a href="form_controls_extended.html">Extended controls</a></li>
                                     <li><a href="form_floating_labels.html">Floating labels</a></li>
                                     <li>
-                                        <a href="index.html#">Selects</a>
+                                        <a href="index.php#">Selects</a>
                                         <ul>
                                             <li><a href="form_select2.html">Select2 selects</a></li>
                                             <li><a href="form_multiselect.html">Bootstrap multiselect</a></li>
@@ -457,7 +457,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-file-css"></i> <span>JSON forms</span></a>
+                                <a href="index.php#"><i class="icon-file-css"></i> <span>JSON forms</span></a>
                                 <ul>
                                     <li><a href="alpaca_basic.html">Basic inputs</a></li>
                                     <li><a href="alpaca_advanced.html">Advanced inputs</a></li>
@@ -465,7 +465,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-footprint"></i> <span>Wizards</span></a>
+                                <a href="index.php#"><i class="icon-footprint"></i> <span>Wizards</span></a>
                                 <ul>
                                     <li><a href="wizard_steps.html">Steps wizard</a></li>
                                     <li><a href="wizard_form.html">Form wizard</a></li>
@@ -473,7 +473,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-spell-check"></i> <span>Editors</span></a>
+                                <a href="index.php#"><i class="icon-spell-check"></i> <span>Editors</span></a>
                                 <ul>
                                     <li><a href="editor_summernote.html">Summernote editor</a></li>
                                     <li><a href="editor_ckeditor.html">CKEditor</a></li>
@@ -482,7 +482,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-select2"></i> <span>Pickers</span></a>
+                                <a href="index.php#"><i class="icon-select2"></i> <span>Pickers</span></a>
                                 <ul>
                                     <li><a href="picker_date.html">Date &amp; time pickers</a></li>
                                     <li><a href="picker_color.html">Color pickers</a></li>
@@ -490,7 +490,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-insert-template"></i> <span>Form layouts</span></a>
+                                <a href="index.php#"><i class="icon-insert-template"></i> <span>Form layouts</span></a>
                                 <ul>
                                     <li><a href="form_layout_vertical.html">Vertical form</a></li>
                                     <li><a href="form_layout_horizontal.html">Horizontal form</a></li>
@@ -501,7 +501,7 @@
                             <!-- Appearance -->
                             <li class="navigation-header"><span>Appearance</span> <i class="icon-menu" title="Appearance"></i></li>
                             <li>
-                                <a href="index.html#"><i class="icon-grid"></i> <span>Components</span></a>
+                                <a href="index.php#"><i class="icon-grid"></i> <span>Components</span></a>
                                 <ul>
                                     <li><a href="components_modals.html">Modals</a></li>
                                     <li><a href="components_dropdowns.html">Dropdown menus</a></li>
@@ -524,7 +524,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-puzzle2"></i> <span>Content appearance</span></a>
+                                <a href="index.php#"><i class="icon-puzzle2"></i> <span>Content appearance</span></a>
                                 <ul>
                                     <li><a href="appearance_content_panels.html">Content panels</a></li>
                                     <li><a href="appearance_panel_heading.html">Panel heading elements</a></li>
@@ -538,7 +538,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-gift"></i> <span>Extra components</span></a>
+                                <a href="index.php#"><i class="icon-gift"></i> <span>Extra components</span></a>
                                 <ul>
                                     <li><a href="extra_sliders_noui.html">NoUI sliders</a></li>
                                     <li><a href="extra_sliders_ion.html">Ion range sliders</a></li>
@@ -550,11 +550,11 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-spinner2 spinner"></i> <span>Animations</span></a>
+                                <a href="index.php#"><i class="icon-spinner2 spinner"></i> <span>Animations</span></a>
                                 <ul>
                                     <li><a href="animations_css3.html">CSS3 animations</a></li>
                                     <li>
-                                        <a href="index.html#">Velocity animations</a>
+                                        <a href="index.php#">Velocity animations</a>
                                         <ul>
                                             <li><a href="animations_velocity_basic.html">Basic usage</a></li>
                                             <li><a href="animations_velocity_ui.html">UI pack effects</a></li>
@@ -564,7 +564,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-thumbs-up2"></i> <span>Icons</span></a>
+                                <a href="index.php#"><i class="icon-thumbs-up2"></i> <span>Icons</span></a>
                                 <ul>
                                     <li><a href="icons_glyphicons.html">Glyphicons</a></li>
                                     <li><a href="icons_icomoon.html">Icomoon</a></li>
@@ -576,14 +576,14 @@
                             <!-- Layout -->
                             <li class="navigation-header"><span>Layout</span> <i class="icon-menu" title="Layout options"></i></li>
                             <li>
-                                <a href="index.html#"><i class="icon-indent-decrease2"></i> <span>Sidebars</span></a>
+                                <a href="index.php#"><i class="icon-indent-decrease2"></i> <span>Sidebars</span></a>
                                 <ul>
                                     <li><a href="sidebar_default_collapse.html">Default collapsible</a></li>
                                     <li><a href="sidebar_default_hide.html">Default hideable</a></li>
                                     <li><a href="sidebar_mini_collapse.html">Mini collapsible</a></li>
                                     <li><a href="sidebar_mini_hide.html">Mini hideable</a></li>
                                     <li>
-                                        <a href="index.html#">Dual sidebar</a>
+                                        <a href="index.php#">Dual sidebar</a>
                                         <ul>
                                             <li><a href="sidebar_dual.html">Dual sidebar</a></li>
                                             <li><a href="sidebar_dual_double_collapse.html">Dual double collapse</a></li>
@@ -592,7 +592,7 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="index.html#">Double sidebar</a>
+                                        <a href="index.php#">Double sidebar</a>
                                         <ul>
                                             <li><a href="sidebar_double_collapse.html">Collapse main sidebar</a></li>
                                             <li><a href="sidebar_double_hide.html">Hide main sidebar</a></li>
@@ -608,7 +608,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-sort"></i> <span>Vertical navigation</span></a>
+                                <a href="index.php#"><i class="icon-sort"></i> <span>Vertical navigation</span></a>
                                 <ul>
                                     <li><a href="navigation_vertical_collapsible.html">Collapsible menu</a></li>
                                     <li><a href="navigation_vertical_accordion.html">Accordion menu</a></li>
@@ -620,7 +620,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-transmission"></i> <span>Horizontal navigation</span></a>
+                                <a href="index.php#"><i class="icon-transmission"></i> <span>Horizontal navigation</span></a>
                                 <ul>
                                     <li><a href="navigation_horizontal_click.html">Submenu on click</a></li>
                                     <li><a href="navigation_horizontal_hover.html">Submenu on hover</a></li>
@@ -631,11 +631,11 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-menu3"></i> <span>Navbars</span></a>
+                                <a href="index.php#"><i class="icon-menu3"></i> <span>Navbars</span></a>
                                 <ul>
                                     <li><a href="navbar_single.html">Single navbar</a></li>
                                     <li>
-                                        <a href="index.html#">Multiple navbars</a>
+                                        <a href="index.php#">Multiple navbars</a>
                                         <ul>
                                             <li><a href="navbar_multiple_navbar_navbar.html">Navbar + navbar</a></li>
                                             <li><a href="navbar_multiple_header_navbar.html">Header + navbar</a></li>
@@ -650,24 +650,24 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-tree5"></i> <span>Menu levels</span></a>
+                                <a href="index.php#"><i class="icon-tree5"></i> <span>Menu levels</span></a>
                                 <ul>
-                                    <li><a href="index.html#"><i class="icon-IE"></i> Second level</a></li>
+                                    <li><a href="index.php#"><i class="icon-IE"></i> Second level</a></li>
                                     <li>
-                                        <a href="index.html#"><i class="icon-firefox"></i> Second level with child</a>
+                                        <a href="index.php#"><i class="icon-firefox"></i> Second level with child</a>
                                         <ul>
-                                            <li><a href="index.html#"><i class="icon-android"></i> Third level</a></li>
+                                            <li><a href="index.php#"><i class="icon-android"></i> Third level</a></li>
                                             <li>
-                                                <a href="index.html#"><i class="icon-apple2"></i> Third level with child</a>
+                                                <a href="index.php#"><i class="icon-apple2"></i> Third level with child</a>
                                                 <ul>
-                                                    <li><a href="index.html#"><i class="icon-html5"></i> Fourth level</a></li>
-                                                    <li><a href="index.html#"><i class="icon-css3"></i> Fourth level</a></li>
+                                                    <li><a href="index.php#"><i class="icon-html5"></i> Fourth level</a></li>
+                                                    <li><a href="index.php#"><i class="icon-css3"></i> Fourth level</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="index.html#"><i class="icon-windows"></i> Third level</a></li>
+                                            <li><a href="index.php#"><i class="icon-windows"></i> Third level</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="index.html#"><i class="icon-chrome"></i> Second level</a></li>
+                                    <li><a href="index.php#"><i class="icon-chrome"></i> Second level</a></li>
                                 </ul>
                             </li>
                             <!-- /layout -->
@@ -675,7 +675,7 @@
                             <!-- Data visualization -->
                             <li class="navigation-header"><span>Data visualization</span> <i class="icon-menu" title="Data visualization"></i></li>
                             <li>
-                                <a href="index.html#"><i class="icon-graph"></i> <span>Echarts library</span></a>
+                                <a href="index.php#"><i class="icon-graph"></i> <span>Echarts library</span></a>
                                 <ul>
                                     <li><a href="echarts_lines_areas.html">Lines and areas</a></li>
                                     <li><a href="echarts_columns_waterfalls.html">Columns and waterfalls</a></li>
@@ -688,7 +688,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-statistics"></i> <span>D3 library</span></a>
+                                <a href="index.php#"><i class="icon-statistics"></i> <span>D3 library</span></a>
                                 <ul>
                                     <li><a href="d3_lines_basic.html">Simple lines</a></li>
                                     <li><a href="d3_lines_advanced.html">Advanced lines</a></li>
@@ -701,31 +701,31 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-stats-dots"></i> <span>Dimple library</span></a>
+                                <a href="index.php#"><i class="icon-stats-dots"></i> <span>Dimple library</span></a>
                                 <ul>
                                     <li>
-                                        <a href="index.html#">Line charts</a>
+                                        <a href="index.php#">Line charts</a>
                                         <ul>
                                             <li><a href="dimple_lines_horizontal.html">Horizontal orientation</a></li>
                                             <li><a href="dimple_lines_vertical.html">Vertical orientation</a></li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="index.html#">Bar charts</a>
+                                        <a href="index.php#">Bar charts</a>
                                         <ul>
                                             <li><a href="dimple_bars_horizontal.html">Horizontal orientation</a></li>
                                             <li><a href="dimple_bars_vertical.html">Vertical orientation</a></li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="index.html#">Area charts</a>
+                                        <a href="index.php#">Area charts</a>
                                         <ul>
                                             <li><a href="dimple_area_horizontal.html">Horizontal orientation</a></li>
                                             <li><a href="dimple_area_vertical.html">Vertical orientation</a></li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="index.html#">Step charts</a>
+                                        <a href="index.php#">Step charts</a>
                                         <ul>
                                             <li><a href="dimple_step_horizontal.html">Horizontal orientation</a></li>
                                             <li><a href="dimple_step_vertical.html">Vertical orientation</a></li>
@@ -738,7 +738,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-stats-bars"></i> <span>C3 library</span></a>
+                                <a href="index.php#"><i class="icon-stats-bars"></i> <span>C3 library</span></a>
                                 <ul>
                                     <li><a href="c3_lines_areas.html">Lines and areas</a></li>
                                     <li><a href="c3_bars_pies.html">Bars and pies</a></li>
@@ -748,7 +748,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-google"></i> <span>Google visualization</span></a>
+                                <a href="index.php#"><i class="icon-google"></i> <span>Google visualization</span></a>
                                 <ul>
                                     <li><a href="google_lines.html">Line charts</a></li>
                                     <li><a href="google_bars.html">Bar charts</a></li>
@@ -758,10 +758,10 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-map5"></i> <span>Maps integration</span></a>
+                                <a href="index.php#"><i class="icon-map5"></i> <span>Maps integration</span></a>
                                 <ul>
                                     <li>
-                                        <a href="index.html#">Google maps</a>
+                                        <a href="index.php#">Google maps</a>
                                         <ul>
                                             <li><a href="maps_google_basic.html">Basics</a></li>
                                             <li><a href="maps_google_controls.html">Controls</a></li>
@@ -778,7 +778,7 @@
                             <!-- Extensions -->
                             <li class="navigation-header"><span>Extensions</span> <i class="icon-menu" title="Extensions"></i></li>
                             <li>
-                                <a href="index.html#"><i class="icon-puzzle4"></i> <span>Extensions</span></a>
+                                <a href="index.php#"><i class="icon-puzzle4"></i> <span>Extensions</span></a>
                                 <ul>
                                     <li><a href="extension_image_cropper.html">Image cropper</a></li>
                                     <li><a href="extension_blockui.html">Block UI</a></li>
@@ -786,7 +786,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-popout"></i> <span>JQuery UI</span></a>
+                                <a href="index.php#"><i class="icon-popout"></i> <span>JQuery UI</span></a>
                                 <ul>
                                     <li><a href="jqueryui_interactions.html">Interactions</a></li>
                                     <li><a href="jqueryui_forms.html">Forms</a></li>
@@ -796,7 +796,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-upload"></i> <span>File uploaders</span></a>
+                                <a href="index.php#"><i class="icon-upload"></i> <span>File uploaders</span></a>
                                 <ul>
                                     <li><a href="uploader_plupload.html">Plupload</a></li>
                                     <li><a href="uploader_bootstrap.html">Bootstrap file uploader</a></li>
@@ -804,7 +804,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-calendar3"></i> <span>Event calendars</span></a>
+                                <a href="index.php#"><i class="icon-calendar3"></i> <span>Event calendars</span></a>
                                 <ul>
                                     <li><a href="extension_fullcalendar_views.html">Basic views</a></li>
                                     <li><a href="extension_fullcalendar_styling.html">Event styling</a></li>
@@ -813,7 +813,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-sphere"></i> <span>Internationalization</span></a>
+                                <a href="index.php#"><i class="icon-sphere"></i> <span>Internationalization</span></a>
                                 <ul>
                                     <li><a href="internationalization_switch_direct.html">Direct translation</a></li>
                                     <li><a href="internationalization_switch_query.html">Querystring parameter</a></li>
@@ -828,7 +828,7 @@
                             <!-- Tables -->
                             <li class="navigation-header"><span>Tables</span> <i class="icon-menu" title="Tables"></i></li>
                             <li>
-                                <a href="index.html#"><i class="icon-table2"></i> <span>Basic tables</span></a>
+                                <a href="index.php#"><i class="icon-table2"></i> <span>Basic tables</span></a>
                                 <ul>
                                     <li><a href="table_basic.html">Basic examples</a></li>
                                     <li><a href="table_sizing.html">Table sizing</a></li>
@@ -838,7 +838,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-grid7"></i> <span>Data tables</span></a>
+                                <a href="index.php#"><i class="icon-grid7"></i> <span>Data tables</span></a>
                                 <ul>
                                     <li><a href="datatable_basic.html">Basic initialization</a></li>
                                     <li><a href="datatable_styling.html">Basic styling</a></li>
@@ -849,7 +849,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-alignment-unalign"></i> <span>Data tables extensions</span></a>
+                                <a href="index.php#"><i class="icon-alignment-unalign"></i> <span>Data tables extensions</span></a>
                                 <ul>
                                     <li><a href="datatable_extension_reorder.html">Columns reorder</a></li>
                                     <li><a href="datatable_extension_row_reorder.html">Row reorder</a></li>
@@ -860,7 +860,7 @@
                                     <li><a href="datatable_extension_scroller.html">Scroller</a></li>
                                     <li><a href="datatable_extension_select.html">Select</a></li>
                                     <li>
-                                        <a href="index.html#">Buttons</a>
+                                        <a href="index.php#">Buttons</a>
                                         <ul>
                                             <li><a href="datatable_extension_buttons_init.html">Initialization</a></li>
                                             <li><a href="datatable_extension_buttons_flash.html">Flash buttons</a></li>
@@ -873,7 +873,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-file-spreadsheet"></i> <span>Handsontable</span></a>
+                                <a href="index.php#"><i class="icon-file-spreadsheet"></i> <span>Handsontable</span></a>
                                 <ul>
                                     <li><a href="handsontable_basic.html">Basic configuration</a></li>
                                     <li><a href="handsontable_advanced.html">Advanced setup</a></li>
@@ -887,7 +887,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-versions"></i> <span>Responsive options</span></a>
+                                <a href="index.php#"><i class="icon-versions"></i> <span>Responsive options</span></a>
                                 <ul>
                                     <li><a href="table_responsive.html">Responsive basic tables</a></li>
                                     <li><a href="datatable_responsive.html">Responsive data tables</a></li>
@@ -898,7 +898,7 @@
                             <!-- Page kits -->
                             <li class="navigation-header"><span>Page kits</span> <i class="icon-menu" title="Page kits"></i></li>
                             <li>
-                                <a href="index.html#"><i class="icon-grid6"></i> <span>General pages</span></a>
+                                <a href="index.php#"><i class="icon-grid6"></i> <span>General pages</span></a>
                                 <ul>
                                     <li><a href="general_feed.html">Feed</a></li>
                                     <li><a href="general_widgets_content.html">Content widgets</a></li>
@@ -907,7 +907,7 @@
                                     <li><a href="general_faq.html">FAQ page</a></li>
                                     <li><a href="general_knowledgebase.html">Knowledgebase</a></li>
                                     <li>
-                                        <a href="index.html#">Blog</a>
+                                        <a href="index.php#">Blog</a>
                                         <ul>
                                             <li><a href="blog_classic_v.html">Classic vertical</a></li>
                                             <li><a href="blog_classic_h.html">Classic horizontal</a></li>
@@ -919,7 +919,7 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="index.html#">Timelines</a>
+                                        <a href="index.php#">Timelines</a>
                                         <ul>
                                             <li><a href="timelines_left.html">Left timeline</a></li>
                                             <li><a href="timelines_right.html">Right timeline</a></li>
@@ -927,7 +927,7 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="index.html#">Gallery</a>
+                                        <a href="index.php#">Gallery</a>
                                         <ul>
                                             <li><a href="gallery_grid.html">Media grid</a></li>
                                             <li><a href="gallery_titles.html">Media with titles</a></li>
@@ -938,11 +938,11 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-wrench3"></i> <span>Service pages</span></a>
+                                <a href="index.php#"><i class="icon-wrench3"></i> <span>Service pages</span></a>
                                 <ul>
                                     <li><a href="service_sitemap.html">Sitemap</a></li>
                                     <li>
-                                        <a href="index.html#">Invoicing</a>
+                                        <a href="index.php#">Invoicing</a>
                                         <ul>
                                             <li><a href="invoice_template.html">Invoice template</a></li>
                                             <li><a href="invoice_grid.html">Invoice grid</a></li>
@@ -950,7 +950,7 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="index.html#">Authentication</a>
+                                        <a href="index.php#">Authentication</a>
                                         <ul>
                                             <li><a href="login_simple.html">Simple login</a></li>
                                             <li><a href="login_advanced.html">More login info</a></li>
@@ -967,7 +967,7 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="index.html#">Error pages</a>
+                                        <a href="index.php#">Error pages</a>
                                         <ul>
                                             <li><a href="error_403.html">Error 403</a></li>
                                             <li><a href="error_404.html">Error 404</a></li>
@@ -980,7 +980,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-people"></i> <span>User pages</span></a>
+                                <a href="index.php#"><i class="icon-people"></i> <span>User pages</span></a>
                                 <ul>
                                     <li><a href="user_pages_list.html">User list</a></li>
                                     <li><a href="user_pages_cards.html">User cards</a></li>
@@ -990,10 +990,10 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#"><i class="icon-cube3"></i> <span>Application pages</span></a>
+                                <a href="index.php#"><i class="icon-cube3"></i> <span>Application pages</span></a>
                                 <ul>
                                     <li>
-                                        <a href="index.html#">Task manager</a>
+                                        <a href="index.php#">Task manager</a>
                                         <ul>
                                             <li><a href="task_manager_grid.html">Task grid</a></li>
                                             <li><a href="task_manager_list.html">Task list</a></li>
@@ -1001,7 +1001,7 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="index.html#">Inbox</a>
+                                        <a href="index.php#">Inbox</a>
                                         <ul>
                                             <li><a href="mail_list.html">Mail list</a></li>
                                             <li><a href="mail_read.html">Read mail</a></li>
@@ -1012,7 +1012,7 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="index.html#">Search</a>
+                                        <a href="index.php#">Search</a>
                                         <ul>
                                             <li><a href="search_basic.html">Basic search results</a></li>
                                             <li><a href="search_users.html">User search results</a></li>
@@ -1021,7 +1021,7 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="index.html#">Job search</a>
+                                        <a href="index.php#">Job search</a>
                                         <ul>
                                             <li><a href="job_list_cards.html">Cards view</a></li>
                                             <li><a href="job_list_panel.html">Panel view</a></li>
@@ -1030,7 +1030,7 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="index.html#">Learning</a>
+                                        <a href="index.php#">Learning</a>
                                         <ul>
                                             <li><a href="learning_list.html">List view</a></li>
                                             <li><a href="learning_grid.html">Grid view</a></li>
@@ -1038,7 +1038,7 @@
                                         </ul>
                                     </li>
                                     <li class="disabled">
-                                        <a href="index.html#">Ecommerce set <span class="label label-transparent">in 1.6</span></a>
+                                        <a href="index.php#">Ecommerce set <span class="label label-transparent">in 1.6</span></a>
                                         <ul>
                                             <li><a href="http://demo.interface.club/limitless/layout_3/LTR/default/ecommerce_product_list.html">Product list</a></li>
                                             <li><a href="http://demo.interface.club/limitless/layout_3/LTR/default/ecommerce_product_grid.html">Product grid</a></li>
@@ -1050,7 +1050,7 @@
                                         </ul>
                                     </li>
                                     <li class="disabled">
-                                        <a href="index.html#">Real estate <span class="label label-transparent">in 1.6</span></a>
+                                        <a href="index.php#">Real estate <span class="label label-transparent">in 1.6</span></a>
                                         <ul>
                                             <li><a href="http://demo.interface.club/limitless/layout_3/LTR/default/properties_list.html">Properties list</a></li>
                                             <li><a href="http://demo.interface.club/limitless/layout_3/LTR/default/properties_grid.html">Properties grid</a></li>
@@ -1085,7 +1085,7 @@
                         <div class="panel-heading">
                             <h6 class="panel-title">Traffic sources</h6>
                             <div class="heading-elements">
-                                <form class="heading-form" action="index.html#">
+                                <form class="heading-form" action="index.php#">
                                     <div class="form-group">
                                         <label class="checkbox-inline checkbox-switchery checkbox-right switchery-xs">
                                             <input type="checkbox" class="switch" checked="checked">
@@ -1101,7 +1101,7 @@
                                 <div class="col-lg-4">
                                     <ul class="list-inline text-center">
                                         <li>
-                                            <a href="index.html#" class="btn border-teal text-teal btn-flat btn-rounded btn-icon btn-xs valign-text-bottom"><i class="icon-plus3"></i></a>
+                                            <a href="index.php#" class="btn border-teal text-teal btn-flat btn-rounded btn-icon btn-xs valign-text-bottom"><i class="icon-plus3"></i></a>
                                         </li>
                                         <li class="text-left">
                                             <div class="text-semibold">New visitors</div>
@@ -1117,7 +1117,7 @@
                                 <div class="col-lg-4">
                                     <ul class="list-inline text-center">
                                         <li>
-                                            <a href="index.html#" class="btn border-warning-400 text-warning-400 btn-flat btn-rounded btn-icon btn-xs valign-text-bottom"><i class="icon-watch2"></i></a>
+                                            <a href="index.php#" class="btn border-warning-400 text-warning-400 btn-flat btn-rounded btn-icon btn-xs valign-text-bottom"><i class="icon-watch2"></i></a>
                                         </li>
                                         <li class="text-left">
                                             <div class="text-semibold">New sessions</div>
@@ -1133,7 +1133,7 @@
                                 <div class="col-lg-4">
                                     <ul class="list-inline text-center">
                                         <li>
-                                            <a href="index.html#" class="btn border-indigo-400 text-indigo-400 btn-flat btn-rounded btn-icon btn-xs valign-text-bottom"><i class="icon-people"></i></a>
+                                            <a href="index.php#" class="btn border-indigo-400 text-indigo-400 btn-flat btn-rounded btn-icon btn-xs valign-text-bottom"><i class="icon-people"></i></a>
                                         </li>
                                         <li class="text-left">
                                             <div class="text-semibold">Total online</div>
@@ -1161,7 +1161,7 @@
                         <div class="panel-heading">
                             <h6 class="panel-title">Sales statistics</h6>
                             <div class="heading-elements">
-                                <form class="heading-form" action="index.html#">
+                                <form class="heading-form" action="index.php#">
                                     <div class="form-group">
                                         <select class="change-date select-sm" id="select_date">
                                             <optgroup label="<i class='icon-watch pull-right'></i> Time period">
@@ -1223,13 +1223,13 @@
                                 <span class="label bg-success heading-text">28 active</span>
                                 <ul class="icons-list">
                                     <li class="dropdown">
-                                        <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i> <span class="caret"></span></a>
+                                        <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i> <span class="caret"></span></a>
                                         <ul class="dropdown-menu dropdown-menu-right">
-                                            <li><a href="index.html#"><i class="icon-sync"></i> Update data</a></li>
-                                            <li><a href="index.html#"><i class="icon-list-unordered"></i> Detailed log</a></li>
-                                            <li><a href="index.html#"><i class="icon-pie5"></i> Statistics</a></li>
+                                            <li><a href="index.php#"><i class="icon-sync"></i> Update data</a></li>
+                                            <li><a href="index.php#"><i class="icon-list-unordered"></i> Detailed log</a></li>
+                                            <li><a href="index.php#"><i class="icon-pie5"></i> Statistics</a></li>
                                             <li class="divider"></li>
-                                            <li><a href="index.html#"><i class="icon-cross3"></i> Clear list</a></li>
+                                            <li><a href="index.php#"><i class="icon-cross3"></i> Clear list</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -1277,7 +1277,7 @@
                                     </td>
 
                                     <td class="text-right col-md-2">
-                                        <a href="index.html#" class="btn bg-indigo-300"><i class="icon-statistics position-left"></i> View report</a>
+                                        <a href="index.php#" class="btn bg-indigo-300"><i class="icon-statistics position-left"></i> View report</a>
                                     </td>
                                 </tr>
                                 </tbody>
@@ -1306,10 +1306,10 @@
                                 <tr>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#"><img src="assets/images/brands/facebook.png" class="img-circle img-xs" alt=""></a>
+                                            <a href="index.php#"><img src="assets/images/brands/facebook.png" class="img-circle img-xs" alt=""></a>
                                         </div>
                                         <div class="media-left">
-                                            <div class=""><a href="index.html#" class="text-default text-semibold">Facebook</a></div>
+                                            <div class=""><a href="index.php#" class="text-default text-semibold">Facebook</a></div>
                                             <div class="text-muted text-size-small">
                                                 <span class="status-mark border-blue position-left"></span>
                                                 02:00 - 03:00
@@ -1323,13 +1323,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropdown">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-file-stats"></i> View statement</a></li>
-                                                    <li><a href="index.html#"><i class="icon-file-text2"></i> Edit campaign</a></li>
-                                                    <li><a href="index.html#"><i class="icon-file-locked"></i> Disable campaign</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-stats"></i> View statement</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-text2"></i> Edit campaign</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-locked"></i> Disable campaign</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-gear"></i> Settings</a></li>
+                                                    <li><a href="index.php#"><i class="icon-gear"></i> Settings</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1338,10 +1338,10 @@
                                 <tr>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#"><img src="assets/images/brands/youtube.png" class="img-circle img-xs" alt=""></a>
+                                            <a href="index.php#"><img src="assets/images/brands/youtube.png" class="img-circle img-xs" alt=""></a>
                                         </div>
                                         <div class="media-left">
-                                            <div class=""><a href="index.html#" class="text-default text-semibold">Youtube videos</a></div>
+                                            <div class=""><a href="index.php#" class="text-default text-semibold">Youtube videos</a></div>
                                             <div class="text-muted text-size-small">
                                                 <span class="status-mark border-danger position-left"></span>
                                                 13:00 - 14:00
@@ -1355,13 +1355,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropdown">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-file-stats"></i> View statement</a></li>
-                                                    <li><a href="index.html#"><i class="icon-file-text2"></i> Edit campaign</a></li>
-                                                    <li><a href="index.html#"><i class="icon-file-locked"></i> Disable campaign</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-stats"></i> View statement</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-text2"></i> Edit campaign</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-locked"></i> Disable campaign</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-gear"></i> Settings</a></li>
+                                                    <li><a href="index.php#"><i class="icon-gear"></i> Settings</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1370,10 +1370,10 @@
                                 <tr>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#"><img src="assets/images/brands/spotify.png" class="img-circle img-xs" alt=""></a>
+                                            <a href="index.php#"><img src="assets/images/brands/spotify.png" class="img-circle img-xs" alt=""></a>
                                         </div>
                                         <div class="media-left">
-                                            <div class=""><a href="index.html#" class="text-default text-semibold">Spotify ads</a></div>
+                                            <div class=""><a href="index.php#" class="text-default text-semibold">Spotify ads</a></div>
                                             <div class="text-muted text-size-small">
                                                 <span class="status-mark border-grey-400 position-left"></span>
                                                 10:00 - 11:00
@@ -1387,13 +1387,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropdown">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-file-stats"></i> View statement</a></li>
-                                                    <li><a href="index.html#"><i class="icon-file-text2"></i> Edit campaign</a></li>
-                                                    <li><a href="index.html#"><i class="icon-file-locked"></i> Disable campaign</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-stats"></i> View statement</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-text2"></i> Edit campaign</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-locked"></i> Disable campaign</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-gear"></i> Settings</a></li>
+                                                    <li><a href="index.php#"><i class="icon-gear"></i> Settings</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1402,10 +1402,10 @@
                                 <tr>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#"><img src="assets/images/brands/twitter.png" class="img-circle img-xs" alt=""></a>
+                                            <a href="index.php#"><img src="assets/images/brands/twitter.png" class="img-circle img-xs" alt=""></a>
                                         </div>
                                         <div class="media-left">
-                                            <div class=""><a href="index.html#" class="text-default text-semibold">Twitter ads</a></div>
+                                            <div class=""><a href="index.php#" class="text-default text-semibold">Twitter ads</a></div>
                                             <div class="text-muted text-size-small">
                                                 <span class="status-mark border-grey-400 position-left"></span>
                                                 04:00 - 05:00
@@ -1419,13 +1419,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropdown">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-file-stats"></i> View statement</a></li>
-                                                    <li><a href="index.html#"><i class="icon-file-text2"></i> Edit campaign</a></li>
-                                                    <li><a href="index.html#"><i class="icon-file-locked"></i> Disable campaign</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-stats"></i> View statement</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-text2"></i> Edit campaign</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-locked"></i> Disable campaign</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-gear"></i> Settings</a></li>
+                                                    <li><a href="index.php#"><i class="icon-gear"></i> Settings</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1441,10 +1441,10 @@
                                 <tr>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#"><img src="assets/images/brands/bing.png" class="img-circle img-xs" alt=""></a>
+                                            <a href="index.php#"><img src="assets/images/brands/bing.png" class="img-circle img-xs" alt=""></a>
                                         </div>
                                         <div class="media-left">
-                                            <div class=""><a href="index.html#" class="text-default text-semibold">Bing campaign</a></div>
+                                            <div class=""><a href="index.php#" class="text-default text-semibold">Bing campaign</a></div>
                                             <div class="text-muted text-size-small">
                                                 <span class="status-mark border-success position-left"></span>
                                                 15:00 - 16:00
@@ -1458,13 +1458,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropup">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-file-stats"></i> View statement</a></li>
-                                                    <li><a href="index.html#"><i class="icon-file-text2"></i> Edit campaign</a></li>
-                                                    <li><a href="index.html#"><i class="icon-file-locked"></i> Disable campaign</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-stats"></i> View statement</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-text2"></i> Edit campaign</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-locked"></i> Disable campaign</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-gear"></i> Settings</a></li>
+                                                    <li><a href="index.php#"><i class="icon-gear"></i> Settings</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1473,10 +1473,10 @@
                                 <tr>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#"><img src="assets/images/brands/amazon.png" class="img-circle img-xs" alt=""></a>
+                                            <a href="index.php#"><img src="assets/images/brands/amazon.png" class="img-circle img-xs" alt=""></a>
                                         </div>
                                         <div class="media-left">
-                                            <div class=""><a href="index.html#" class="text-default text-semibold">Amazon ads</a></div>
+                                            <div class=""><a href="index.php#" class="text-default text-semibold">Amazon ads</a></div>
                                             <div class="text-muted text-size-small">
                                                 <span class="status-mark border-danger position-left"></span>
                                                 18:00 - 19:00
@@ -1490,13 +1490,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropup">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-file-stats"></i> View statement</a></li>
-                                                    <li><a href="index.html#"><i class="icon-file-text2"></i> Edit campaign</a></li>
-                                                    <li><a href="index.html#"><i class="icon-file-locked"></i> Disable campaign</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-stats"></i> View statement</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-text2"></i> Edit campaign</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-locked"></i> Disable campaign</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-gear"></i> Settings</a></li>
+                                                    <li><a href="index.php#"><i class="icon-gear"></i> Settings</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1505,10 +1505,10 @@
                                 <tr>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#"><img src="assets/images/brands/dribbble.png" class="img-circle img-xs" alt=""></a>
+                                            <a href="index.php#"><img src="assets/images/brands/dribbble.png" class="img-circle img-xs" alt=""></a>
                                         </div>
                                         <div class="media-left">
-                                            <div class=""><a href="index.html#" class="text-default text-semibold">Dribbble ads</a></div>
+                                            <div class=""><a href="index.php#" class="text-default text-semibold">Dribbble ads</a></div>
                                             <div class="text-muted text-size-small">
                                                 <span class="status-mark border-blue position-left"></span>
                                                 20:00 - 21:00
@@ -1522,13 +1522,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropup">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-file-stats"></i> View statement</a></li>
-                                                    <li><a href="index.html#"><i class="icon-file-text2"></i> Edit campaign</a></li>
-                                                    <li><a href="index.html#"><i class="icon-file-locked"></i> Disable campaign</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-stats"></i> View statement</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-text2"></i> Edit campaign</a></li>
+                                                    <li><a href="index.php#"><i class="icon-file-locked"></i> Disable campaign</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-gear"></i> Settings</a></li>
+                                                    <li><a href="index.php#"><i class="icon-gear"></i> Settings</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1573,12 +1573,12 @@
                                     <div class="heading-elements">
                                         <ul class="icons-list">
                                             <li class="dropdown">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog3"></i> <span class="caret"></span></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog3"></i> <span class="caret"></span></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-sync"></i> Update data</a></li>
-                                                    <li><a href="index.html#"><i class="icon-list-unordered"></i> Detailed log</a></li>
-                                                    <li><a href="index.html#"><i class="icon-pie5"></i> Statistics</a></li>
-                                                    <li><a href="index.html#"><i class="icon-cross3"></i> Clear list</a></li>
+                                                    <li><a href="index.php#"><i class="icon-sync"></i> Update data</a></li>
+                                                    <li><a href="index.php#"><i class="icon-list-unordered"></i> Detailed log</a></li>
+                                                    <li><a href="index.php#"><i class="icon-pie5"></i> Statistics</a></li>
+                                                    <li><a href="index.php#"><i class="icon-cross3"></i> Clear list</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1648,7 +1648,7 @@
 
                                     <td class="col-md-3">
                                         <div class="media-left media-middle">
-                                            <a href="index.html#" class="btn border-indigo-400 text-indigo-400 btn-flat btn-rounded btn-xs btn-icon"><i class="icon-alarm-add"></i></a>
+                                            <a href="index.php#" class="btn border-indigo-400 text-indigo-400 btn-flat btn-rounded btn-xs btn-icon"><i class="icon-alarm-add"></i></a>
                                         </div>
 
                                         <div class="media-left">
@@ -1660,7 +1660,7 @@
 
                                     <td class="col-md-3">
                                         <div class="media-left media-middle">
-                                            <a href="index.html#" class="btn border-indigo-400 text-indigo-400 btn-flat btn-rounded btn-xs btn-icon"><i class="icon-spinner11"></i></a>
+                                            <a href="index.php#" class="btn border-indigo-400 text-indigo-400 btn-flat btn-rounded btn-xs btn-icon"><i class="icon-spinner11"></i></a>
                                         </div>
 
                                         <div class="media-left">
@@ -1671,7 +1671,7 @@
                                     </td>
 
                                     <td class="text-right col-md-2">
-                                        <a href="index.html#" class="btn bg-teal-400"><i class="icon-statistics position-left"></i> Report</a>
+                                        <a href="index.php#" class="btn bg-teal-400"><i class="icon-statistics position-left"></i> Report</a>
                                     </td>
                                 </tr>
                                 </tbody>
@@ -1702,18 +1702,18 @@
                                     </td>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#" class="btn bg-teal-400 btn-rounded btn-icon btn-xs">
+                                            <a href="index.php#" class="btn bg-teal-400 btn-rounded btn-icon btn-xs">
                                                 <span class="letter-icon"></span>
                                             </a>
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#" class="display-inline-block text-default text-semibold letter-icon-title">Annabelle Doney</a>
+                                            <a href="index.php#" class="display-inline-block text-default text-semibold letter-icon-title">Annabelle Doney</a>
                                             <div class="text-muted text-size-small"><span class="status-mark border-blue position-left"></span> Active</div>
                                         </div>
                                     </td>
                                     <td>
-                                        <a href="index.html#" class="text-default display-inline-block">
+                                        <a href="index.php#" class="text-default display-inline-block">
                                             <span class="text-semibold">[#1183] Workaround for OS X selects printing bug</span>
                                             <span class="display-block text-muted">Chrome fixed the bug several versions ago, thus rendering this...</span>
                                         </a>
@@ -1721,13 +1721,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropdown">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-undo"></i> Quick reply</a></li>
-                                                    <li><a href="index.html#"><i class="icon-history"></i> Full history</a></li>
+                                                    <li><a href="index.php#"><i class="icon-undo"></i> Quick reply</a></li>
+                                                    <li><a href="index.php#"><i class="icon-history"></i> Full history</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-checkmark3 text-success"></i> Resolve issue</a></li>
-                                                    <li><a href="index.html#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-checkmark3 text-success"></i> Resolve issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1740,16 +1740,16 @@
                                     </td>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#"><img src="assets/images/demo/users/face15.jpg" class="img-circle img-xs" alt=""></a>
+                                            <a href="index.php#"><img src="assets/images/demo/users/face15.jpg" class="img-circle img-xs" alt=""></a>
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#" class="display-inline-block text-default text-semibold letter-icon-title">Chris Macintyre</a>
+                                            <a href="index.php#" class="display-inline-block text-default text-semibold letter-icon-title">Chris Macintyre</a>
                                             <div class="text-muted text-size-small"><span class="status-mark border-blue position-left"></span> Active</div>
                                         </div>
                                     </td>
                                     <td>
-                                        <a href="index.html#" class="text-default display-inline-block">
+                                        <a href="index.php#" class="text-default display-inline-block">
                                             <span class="text-semibold">[#1249] Vertically center carousel controls</span>
                                             <span class="display-block text-muted">Try any carousel control and reduce the screen width below...</span>
                                         </a>
@@ -1757,13 +1757,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropdown">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-undo"></i> Quick reply</a></li>
-                                                    <li><a href="index.html#"><i class="icon-history"></i> Full history</a></li>
+                                                    <li><a href="index.php#"><i class="icon-undo"></i> Quick reply</a></li>
+                                                    <li><a href="index.php#"><i class="icon-history"></i> Full history</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-checkmark3 text-success"></i> Resolve issue</a></li>
-                                                    <li><a href="index.html#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-checkmark3 text-success"></i> Resolve issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1776,18 +1776,18 @@
                                     </td>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#" class="btn bg-blue btn-rounded btn-icon btn-xs">
+                                            <a href="index.php#" class="btn bg-blue btn-rounded btn-icon btn-xs">
                                                 <span class="letter-icon"></span>
                                             </a>
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#" class="display-inline-block text-default text-semibold letter-icon-title">Robert Hauber</a>
+                                            <a href="index.php#" class="display-inline-block text-default text-semibold letter-icon-title">Robert Hauber</a>
                                             <div class="text-muted text-size-small"><span class="status-mark border-blue position-left"></span> Active</div>
                                         </div>
                                     </td>
                                     <td>
-                                        <a href="index.html#" class="text-default display-inline-block">
+                                        <a href="index.php#" class="text-default display-inline-block">
                                             <span class="text-semibold">[#1254] Inaccurate small pagination height</span>
                                             <span class="display-block text-muted">The height of pagination elements is not consistent with...</span>
                                         </a>
@@ -1795,13 +1795,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropdown">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-undo"></i> Quick reply</a></li>
-                                                    <li><a href="index.html#"><i class="icon-history"></i> Full history</a></li>
+                                                    <li><a href="index.php#"><i class="icon-undo"></i> Quick reply</a></li>
+                                                    <li><a href="index.php#"><i class="icon-history"></i> Full history</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-checkmark3 text-success"></i> Resolve issue</a></li>
-                                                    <li><a href="index.html#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-checkmark3 text-success"></i> Resolve issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1814,18 +1814,18 @@
                                     </td>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#" class="btn bg-warning-400 btn-rounded btn-icon btn-xs">
+                                            <a href="index.php#" class="btn bg-warning-400 btn-rounded btn-icon btn-xs">
                                                 <span class="letter-icon"></span>
                                             </a>
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#" class="display-inline-block text-default text-semibold letter-icon-title">Dex Sponheim</a>
+                                            <a href="index.php#" class="display-inline-block text-default text-semibold letter-icon-title">Dex Sponheim</a>
                                             <div class="text-muted text-size-small"><span class="status-mark border-blue position-left"></span> Active</div>
                                         </div>
                                     </td>
                                     <td>
-                                        <a href="index.html#" class="text-default display-inline-block">
+                                        <a href="index.php#" class="text-default display-inline-block">
                                             <span class="text-semibold">[#1184] Round grid column gutter operations</span>
                                             <span class="display-block text-muted">Left rounds up, right rounds down. should keep everything...</span>
                                         </a>
@@ -1833,13 +1833,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropdown">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-undo"></i> Quick reply</a></li>
-                                                    <li><a href="index.html#"><i class="icon-history"></i> Full history</a></li>
+                                                    <li><a href="index.php#"><i class="icon-undo"></i> Quick reply</a></li>
+                                                    <li><a href="index.php#"><i class="icon-history"></i> Full history</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-checkmark3 text-success"></i> Resolve issue</a></li>
-                                                    <li><a href="index.html#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-checkmark3 text-success"></i> Resolve issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1859,18 +1859,18 @@
                                     </td>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#" class="btn bg-success-400 btn-rounded btn-icon btn-xs">
+                                            <a href="index.php#" class="btn bg-success-400 btn-rounded btn-icon btn-xs">
                                                 <span class="letter-icon"></span>
                                             </a>
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#" class="display-inline-block text-default letter-icon-title">Alan Macedo</a>
+                                            <a href="index.php#" class="display-inline-block text-default letter-icon-title">Alan Macedo</a>
                                             <div class="text-muted text-size-small"><span class="status-mark border-success position-left"></span> Resolved</div>
                                         </div>
                                     </td>
                                     <td>
-                                        <a href="index.html#" class="text-default display-inline-block">
+                                        <a href="index.php#" class="text-default display-inline-block">
                                             [#1046] Avoid some unnecessary HTML string
                                             <span class="display-block text-muted">Rather than building a string of HTML and then parsing it...</span>
                                         </a>
@@ -1878,13 +1878,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropdown">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-undo"></i> Quick reply</a></li>
-                                                    <li><a href="index.html#"><i class="icon-history"></i> Full history</a></li>
+                                                    <li><a href="index.php#"><i class="icon-undo"></i> Quick reply</a></li>
+                                                    <li><a href="index.php#"><i class="icon-history"></i> Full history</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-plus3 text-blue"></i> Unresolve issue</a></li>
-                                                    <li><a href="index.html#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-plus3 text-blue"></i> Unresolve issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1897,18 +1897,18 @@
                                     </td>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#" class="btn bg-pink-400 btn-rounded btn-icon btn-xs">
+                                            <a href="index.php#" class="btn bg-pink-400 btn-rounded btn-icon btn-xs">
                                                 <span class="letter-icon"></span>
                                             </a>
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#" class="display-inline-block text-default letter-icon-title">Brett Castellano</a>
+                                            <a href="index.php#" class="display-inline-block text-default letter-icon-title">Brett Castellano</a>
                                             <div class="text-muted text-size-small"><span class="status-mark border-success position-left"></span> Resolved</div>
                                         </div>
                                     </td>
                                     <td>
-                                        <a href="index.html#" class="text-default display-inline-block">
+                                        <a href="index.php#" class="text-default display-inline-block">
                                             [#1038] Update json configuration
                                             <span class="display-block text-muted">The <code>files</code> property is necessary to override the files property...</span>
                                         </a>
@@ -1916,13 +1916,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropdown">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-undo"></i> Quick reply</a></li>
-                                                    <li><a href="index.html#"><i class="icon-history"></i> Full history</a></li>
+                                                    <li><a href="index.php#"><i class="icon-undo"></i> Quick reply</a></li>
+                                                    <li><a href="index.php#"><i class="icon-history"></i> Full history</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-plus3 text-blue"></i> Unresolve issue</a></li>
-                                                    <li><a href="index.html#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-plus3 text-blue"></i> Unresolve issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1935,16 +1935,16 @@
                                     </td>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#"><img src="assets/images/demo/users/face3.jpg" class="img-circle img-xs" alt=""></a>
+                                            <a href="index.php#"><img src="assets/images/demo/users/face3.jpg" class="img-circle img-xs" alt=""></a>
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#" class="display-inline-block text-default">Roxanne Forbes</a>
+                                            <a href="index.php#" class="display-inline-block text-default">Roxanne Forbes</a>
                                             <div class="text-muted text-size-small"><span class="status-mark border-success position-left"></span> Resolved</div>
                                         </div>
                                     </td>
                                     <td>
-                                        <a href="index.html#" class="text-default display-inline-block">
+                                        <a href="index.php#" class="text-default display-inline-block">
                                             [#1034] Tooltip multiple event
                                             <span class="display-block text-muted">Fix behavior when using tooltips and popovers that are...</span>
                                         </a>
@@ -1952,13 +1952,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropdown">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-undo"></i> Quick reply</a></li>
-                                                    <li><a href="index.html#"><i class="icon-history"></i> Full history</a></li>
+                                                    <li><a href="index.php#"><i class="icon-undo"></i> Quick reply</a></li>
+                                                    <li><a href="index.php#"><i class="icon-history"></i> Full history</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-plus3 text-blue"></i> Unresolve issue</a></li>
-                                                    <li><a href="index.html#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-plus3 text-blue"></i> Unresolve issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1978,16 +1978,16 @@
                                     </td>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#"><img src="assets/images/demo/users/face8.jpg" class="img-circle img-xs" alt=""></a>
+                                            <a href="index.php#"><img src="assets/images/demo/users/face8.jpg" class="img-circle img-xs" alt=""></a>
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#" class="display-inline-block text-default">Mitchell Sitkin</a>
+                                            <a href="index.php#" class="display-inline-block text-default">Mitchell Sitkin</a>
                                             <div class="text-muted text-size-small"><span class="status-mark border-danger position-left"></span> Closed</div>
                                         </div>
                                     </td>
                                     <td>
-                                        <a href="index.html#" class="text-default display-inline-block">
+                                        <a href="index.php#" class="text-default display-inline-block">
                                             [#1040] Account for static form controls in form group
                                             <span class="display-block text-muted">Resizes control label's font-size and account for the standard...</span>
                                         </a>
@@ -1995,13 +1995,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropup">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-undo"></i> Quick reply</a></li>
-                                                    <li><a href="index.html#"><i class="icon-history"></i> Full history</a></li>
+                                                    <li><a href="index.php#"><i class="icon-undo"></i> Quick reply</a></li>
+                                                    <li><a href="index.php#"><i class="icon-history"></i> Full history</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-reload-alt text-blue"></i> Reopen issue</a></li>
-                                                    <li><a href="index.html#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-reload-alt text-blue"></i> Reopen issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -2014,18 +2014,18 @@
                                     </td>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#" class="btn bg-brown-400 btn-rounded btn-icon btn-xs">
+                                            <a href="index.php#" class="btn bg-brown-400 btn-rounded btn-icon btn-xs">
                                                 <span class="letter-icon"></span>
                                             </a>
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#" class="display-inline-block text-default letter-icon-title">Katleen Jensen</a>
+                                            <a href="index.php#" class="display-inline-block text-default letter-icon-title">Katleen Jensen</a>
                                             <div class="text-muted text-size-small"><span class="status-mark border-danger position-left"></span> Closed</div>
                                         </div>
                                     </td>
                                     <td>
-                                        <a href="index.html#" class="text-default display-inline-block">
+                                        <a href="index.php#" class="text-default display-inline-block">
                                             [#1038] Proper sizing of form control feedback
                                             <span class="display-block text-muted">Feedback icon sizing inside a larger/smaller form-group...</span>
                                         </a>
@@ -2033,13 +2033,13 @@
                                     <td class="text-center">
                                         <ul class="icons-list">
                                             <li class="dropup">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-undo"></i> Quick reply</a></li>
-                                                    <li><a href="index.html#"><i class="icon-history"></i> Full history</a></li>
+                                                    <li><a href="index.php#"><i class="icon-undo"></i> Quick reply</a></li>
+                                                    <li><a href="index.php#"><i class="icon-history"></i> Full history</a></li>
                                                     <li class="divider"></li>
-                                                    <li><a href="index.html#"><i class="icon-plus3 text-blue"></i> Unresolve issue</a></li>
-                                                    <li><a href="index.html#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-plus3 text-blue"></i> Unresolve issue</a></li>
+                                                    <li><a href="index.php#"><i class="icon-cross2 text-danger"></i> Close issue</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -2072,7 +2072,7 @@
                                         <li class="media stack-media-on-mobile">
                                             <div class="media-left">
                                                 <div class="thumb">
-                                                    <a href="index.html#">
+                                                    <a href="index.php#">
                                                         <img src="assets/images/demo/flat/1.png" class="img-responsive img-rounded media-preview" alt="">
                                                         <span class="zoom-image"><i class="icon-play3"></i></span>
                                                     </a>
@@ -2080,7 +2080,7 @@
                                             </div>
 
                                             <div class="media-body">
-                                                <h6 class="media-heading"><a href="index.html#">Up unpacked friendly</a></h6>
+                                                <h6 class="media-heading"><a href="index.php#">Up unpacked friendly</a></h6>
                                                 <ul class="list-inline list-inline-separate text-muted mb-5">
                                                     <li><i class="icon-book-play position-left"></i> Video tutorials</li>
                                                     <li>14 minutes ago</li>
@@ -2092,7 +2092,7 @@
                                         <li class="media stack-media-on-mobile">
                                             <div class="media-left">
                                                 <div class="thumb">
-                                                    <a href="index.html#">
+                                                    <a href="index.php#">
                                                         <img src="assets/images/demo/flat/21.png" class="img-responsive img-rounded media-preview" alt="">
                                                         <span class="zoom-image"><i class="icon-play3"></i></span>
                                                     </a>
@@ -2100,7 +2100,7 @@
                                             </div>
 
                                             <div class="media-body">
-                                                <h6 class="media-heading"><a href="index.html#">It allowance prevailed</a></h6>
+                                                <h6 class="media-heading"><a href="index.php#">It allowance prevailed</a></h6>
                                                 <ul class="list-inline list-inline-separate text-muted mb-5">
                                                     <li><i class="icon-book-play position-left"></i> Video tutorials</li>
                                                     <li>12 days ago</li>
@@ -2116,7 +2116,7 @@
                                         <li class="media stack-media-on-mobile">
                                             <div class="media-left">
                                                 <div class="thumb">
-                                                    <a href="index.html#">
+                                                    <a href="index.php#">
                                                         <img src="assets/images/demo/flat/12.png" class="img-responsive img-rounded media-preview" alt="">
                                                         <span class="zoom-image"><i class="icon-play3"></i></span>
                                                     </a>
@@ -2124,7 +2124,7 @@
                                             </div>
 
                                             <div class="media-body">
-                                                <h6 class="media-heading"><a href="index.html#">Case read they must</a></h6>
+                                                <h6 class="media-heading"><a href="index.php#">Case read they must</a></h6>
                                                 <ul class="list-inline list-inline-separate text-muted mb-5">
                                                     <li><i class="icon-book-play position-left"></i> Video tutorials</li>
                                                     <li>20 hours ago</li>
@@ -2136,7 +2136,7 @@
                                         <li class="media stack-media-on-mobile">
                                             <div class="media-left">
                                                 <div class="thumb">
-                                                    <a href="index.html#">
+                                                    <a href="index.php#">
                                                         <img src="assets/images/demo/flat/15.png" class="img-responsive img-rounded media-preview" alt="">
                                                         <span class="zoom-image"><i class="icon-play3"></i></span>
                                                     </a>
@@ -2144,7 +2144,7 @@
                                             </div>
 
                                             <div class="media-body">
-                                                <h6 class="media-heading"><a href="index.html#">Too carriage attended</a></h6>
+                                                <h6 class="media-heading"><a href="index.php#">Too carriage attended</a></h6>
                                                 <ul class="list-inline list-inline-separate text-muted mb-5">
                                                     <li><i class="icon-book-play position-left"></i> FAQ section</li>
                                                     <li>2 days ago</li>
@@ -2173,12 +2173,12 @@
                                     <div class="heading-elements">
                                         <ul class="icons-list">
                                             <li class="dropdown text-muted">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog3"></i> <span class="caret"></span></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog3"></i> <span class="caret"></span></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-sync"></i> Update data</a></li>
-                                                    <li><a href="index.html#"><i class="icon-list-unordered"></i> Detailed log</a></li>
-                                                    <li><a href="index.html#"><i class="icon-pie5"></i> Statistics</a></li>
-                                                    <li><a href="index.html#"><i class="icon-cross3"></i> Clear list</a></li>
+                                                    <li><a href="index.php#"><i class="icon-sync"></i> Update data</a></li>
+                                                    <li><a href="index.php#"><i class="icon-list-unordered"></i> Detailed log</a></li>
+                                                    <li><a href="index.php#"><i class="icon-pie5"></i> Statistics</a></li>
+                                                    <li><a href="index.php#"><i class="icon-cross3"></i> Clear list</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -2207,12 +2207,12 @@
                                     <div class="heading-elements">
                                         <ul class="icons-list">
                                             <li class="dropdown text-muted">
-                                                <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog3"></i> <span class="caret"></span></a>
+                                                <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog3"></i> <span class="caret"></span></a>
                                                 <ul class="dropdown-menu dropdown-menu-right">
-                                                    <li><a href="index.html#"><i class="icon-sync"></i> Update data</a></li>
-                                                    <li><a href="index.html#"><i class="icon-list-unordered"></i> Detailed log</a></li>
-                                                    <li><a href="index.html#"><i class="icon-pie5"></i> Statistics</a></li>
-                                                    <li><a href="index.html#"><i class="icon-cross3"></i> Clear list</a></li>
+                                                    <li><a href="index.php#"><i class="icon-sync"></i> Update data</a></li>
+                                                    <li><a href="index.php#"><i class="icon-list-unordered"></i> Detailed log</a></li>
+                                                    <li><a href="index.php#"><i class="icon-pie5"></i> Statistics</a></li>
+                                                    <li><a href="index.php#"><i class="icon-cross3"></i> Clear list</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -2243,13 +2243,13 @@
                                 <span class="heading-text">Balance: <span class="text-bold text-danger-600 position-right">$4,378</span></span>
                                 <ul class="icons-list">
                                     <li class="dropdown text-muted">
-                                        <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog3"></i> <span class="caret"></span></a>
+                                        <a href="index.php#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog3"></i> <span class="caret"></span></a>
                                         <ul class="dropdown-menu dropdown-menu-right">
-                                            <li><a href="index.html#"><i class="icon-sync"></i> Update data</a></li>
-                                            <li><a href="index.html#"><i class="icon-list-unordered"></i> Detailed log</a></li>
-                                            <li><a href="index.html#"><i class="icon-pie5"></i> Statistics</a></li>
+                                            <li><a href="index.php#"><i class="icon-sync"></i> Update data</a></li>
+                                            <li><a href="index.php#"><i class="icon-list-unordered"></i> Detailed log</a></li>
+                                            <li><a href="index.php#"><i class="icon-pie5"></i> Statistics</a></li>
                                             <li class="divider"></li>
-                                            <li><a href="index.html#"><i class="icon-cross3"></i> Clear list</a></li>
+                                            <li><a href="index.php#"><i class="icon-cross3"></i> Clear list</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -2273,14 +2273,14 @@
                                 <tr>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#" class="btn bg-primary-400 btn-rounded btn-icon btn-xs">
+                                            <a href="index.php#" class="btn bg-primary-400 btn-rounded btn-icon btn-xs">
                                                 <span class="letter-icon"></span>
                                             </a>
                                         </div>
 
                                         <div class="media-body">
                                             <div class="media-heading">
-                                                <a href="index.html#" class="letter-icon-title">Sigma application</a>
+                                                <a href="index.php#" class="letter-icon-title">Sigma application</a>
                                             </div>
 
                                             <div class="text-muted text-size-small"><i class="icon-checkmark3 text-size-mini position-left"></i> New order</div>
@@ -2297,14 +2297,14 @@
                                 <tr>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#" class="btn bg-danger-400 btn-rounded btn-icon btn-xs">
+                                            <a href="index.php#" class="btn bg-danger-400 btn-rounded btn-icon btn-xs">
                                                 <span class="letter-icon"></span>
                                             </a>
                                         </div>
 
                                         <div class="media-body">
                                             <div class="media-heading">
-                                                <a href="index.html#" class="letter-icon-title">Alpha application</a>
+                                                <a href="index.php#" class="letter-icon-title">Alpha application</a>
                                             </div>
 
                                             <div class="text-muted text-size-small"><i class="icon-spinner11 text-size-mini position-left"></i> Renewal</div>
@@ -2321,14 +2321,14 @@
                                 <tr>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#" class="btn bg-indigo-400 btn-rounded btn-icon btn-xs">
+                                            <a href="index.php#" class="btn bg-indigo-400 btn-rounded btn-icon btn-xs">
                                                 <span class="letter-icon"></span>
                                             </a>
                                         </div>
 
                                         <div class="media-body">
                                             <div class="media-heading">
-                                                <a href="index.html#" class="letter-icon-title">Delta application</a>
+                                                <a href="index.php#" class="letter-icon-title">Delta application</a>
                                             </div>
 
                                             <div class="text-muted text-size-small"><i class="icon-lifebuoy text-size-mini position-left"></i> Support</div>
@@ -2345,14 +2345,14 @@
                                 <tr>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#" class="btn bg-success-400 btn-rounded btn-icon btn-xs">
+                                            <a href="index.php#" class="btn bg-success-400 btn-rounded btn-icon btn-xs">
                                                 <span class="letter-icon"></span>
                                             </a>
                                         </div>
 
                                         <div class="media-body">
                                             <div class="media-heading">
-                                                <a href="index.html#" class="letter-icon-title">Omega application</a>
+                                                <a href="index.php#" class="letter-icon-title">Omega application</a>
                                             </div>
 
                                             <div class="text-muted text-size-small"><i class="icon-lifebuoy text-size-mini position-left"></i> Support</div>
@@ -2369,14 +2369,14 @@
                                 <tr>
                                     <td>
                                         <div class="media-left media-middle">
-                                            <a href="index.html#" class="btn bg-danger-400 btn-rounded btn-icon btn-xs">
+                                            <a href="index.php#" class="btn bg-danger-400 btn-rounded btn-icon btn-xs">
                                                 <span class="letter-icon"></span>
                                             </a>
                                         </div>
 
                                         <div class="media-body">
                                             <div class="media-heading">
-                                                <a href="index.html#" class="letter-icon-title">Alpha application</a>
+                                                <a href="index.php#" class="letter-icon-title">Alpha application</a>
                                             </div>
 
                                             <div class="text-muted text-size-small"><i class="icon-spinner11 text-size-mini position-left"></i> Renewal</div>
@@ -2442,19 +2442,19 @@
                         <!-- Tabs -->
                         <ul class="nav nav-lg nav-tabs nav-justified no-margin no-border-radius bg-indigo-400 border-top border-top-indigo-300">
                             <li class="active">
-                                <a href="index.html#messages-tue" class="text-size-small text-uppercase" data-toggle="tab">
+                                <a href="index.php#messages-tue" class="text-size-small text-uppercase" data-toggle="tab">
                                     Tuesday
                                 </a>
                             </li>
 
                             <li>
-                                <a href="index.html#messages-mon" class="text-size-small text-uppercase" data-toggle="tab">
+                                <a href="index.php#messages-mon" class="text-size-small text-uppercase" data-toggle="tab">
                                     Monday
                                 </a>
                             </li>
 
                             <li>
-                                <a href="index.html#messages-fri" class="text-size-small text-uppercase" data-toggle="tab">
+                                <a href="index.php#messages-fri" class="text-size-small text-uppercase" data-toggle="tab">
                                     Friday
                                 </a>
                             </li>
@@ -2473,7 +2473,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 James Alexander
                                                 <span class="media-annotation pull-right">14:58</span>
                                             </a>
@@ -2489,7 +2489,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 Margo Baker
                                                 <span class="media-annotation pull-right">12:16</span>
                                             </a>
@@ -2504,7 +2504,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 Jeremy Victorino
                                                 <span class="media-annotation pull-right">09:48</span>
                                             </a>
@@ -2519,7 +2519,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 Beatrix Diaz
                                                 <span class="media-annotation pull-right">05:54</span>
                                             </a>
@@ -2534,7 +2534,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 Richard Vango
                                                 <span class="media-annotation pull-right">01:43</span>
                                             </a>
@@ -2553,7 +2553,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 Isak Temes
                                                 <span class="media-annotation pull-right">Tue, 19:58</span>
                                             </a>
@@ -2568,7 +2568,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 Vittorio Cosgrove
                                                 <span class="media-annotation pull-right">Tue, 16:35</span>
                                             </a>
@@ -2583,7 +2583,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 Hilary Talaugon
                                                 <span class="media-annotation pull-right">Tue, 12:16</span>
                                             </a>
@@ -2598,7 +2598,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 Bobbie Seber
                                                 <span class="media-annotation pull-right">Tue, 09:20</span>
                                             </a>
@@ -2613,7 +2613,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 Walther Laws
                                                 <span class="media-annotation pull-right">Tue, 03:29</span>
                                             </a>
@@ -2632,7 +2632,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 Owen Stretch
                                                 <span class="media-annotation pull-right">Mon, 18:12</span>
                                             </a>
@@ -2647,7 +2647,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 Jenilee Mcnair
                                                 <span class="media-annotation pull-right">Mon, 14:03</span>
                                             </a>
@@ -2662,7 +2662,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 Alaster Jain
                                                 <span class="media-annotation pull-right">Mon, 13:59</span>
                                             </a>
@@ -2677,7 +2677,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 Sigfrid Thisted
                                                 <span class="media-annotation pull-right">Mon, 09:26</span>
                                             </a>
@@ -2692,7 +2692,7 @@
                                         </div>
 
                                         <div class="media-body">
-                                            <a href="index.html#">
+                                            <a href="index.php#">
                                                 Sherilyn Mckee
                                                 <span class="media-annotation pull-right">Mon, 06:38</span>
                                             </a>
@@ -2714,7 +2714,7 @@
                         <div class="panel-heading">
                             <h6 class="panel-title">Daily financials</h6>
                             <div class="heading-elements">
-                                <form class="heading-form" action="index.html#">
+                                <form class="heading-form" action="index.php#">
                                     <div class="form-group">
                                         <label class="checkbox checkbox-inline checkbox-switchery checkbox-right switchery-xs">
                                             <input type="checkbox" class="switcher" id="realtime" checked="checked">
@@ -2732,7 +2732,7 @@
                             <ul class="media-list">
                                 <li class="media">
                                     <div class="media-left">
-                                        <a href="index.html#" class="btn border-pink text-pink btn-flat btn-rounded btn-icon btn-xs"><i class="icon-statistics"></i></a>
+                                        <a href="index.php#" class="btn border-pink text-pink btn-flat btn-rounded btn-icon btn-xs"><i class="icon-statistics"></i></a>
                                     </div>
 
                                     <div class="media-body">
@@ -2743,7 +2743,7 @@
                                     <div class="media-right media-middle">
                                         <ul class="icons-list">
                                             <li>
-                                                <a href="index.html#"><i class="icon-arrow-right13"></i></a>
+                                                <a href="index.php#"><i class="icon-arrow-right13"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -2751,18 +2751,18 @@
 
                                 <li class="media">
                                     <div class="media-left">
-                                        <a href="index.html#" class="btn border-success text-success btn-flat btn-rounded btn-icon btn-xs"><i class="icon-checkmark3"></i></a>
+                                        <a href="index.php#" class="btn border-success text-success btn-flat btn-rounded btn-icon btn-xs"><i class="icon-checkmark3"></i></a>
                                     </div>
 
                                     <div class="media-body">
-                                        Invoices <a href="index.html#">#4732</a> and <a href="index.html#">#4734</a> have been paid
+                                        Invoices <a href="index.php#">#4732</a> and <a href="index.php#">#4734</a> have been paid
                                         <div class="media-annotation">Dec 18, 18:36</div>
                                     </div>
 
                                     <div class="media-right media-middle">
                                         <ul class="icons-list">
                                             <li>
-                                                <a href="index.html#"><i class="icon-arrow-right13"></i></a>
+                                                <a href="index.php#"><i class="icon-arrow-right13"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -2770,7 +2770,7 @@
 
                                 <li class="media">
                                     <div class="media-left">
-                                        <a href="index.html#" class="btn border-primary text-primary btn-flat btn-rounded btn-icon btn-xs"><i class="icon-alignment-unalign"></i></a>
+                                        <a href="index.php#" class="btn border-primary text-primary btn-flat btn-rounded btn-icon btn-xs"><i class="icon-alignment-unalign"></i></a>
                                     </div>
 
                                     <div class="media-body">
@@ -2781,7 +2781,7 @@
                                     <div class="media-right media-middle">
                                         <ul class="icons-list">
                                             <li>
-                                                <a href="index.html#"><i class="icon-arrow-right13"></i></a>
+                                                <a href="index.php#"><i class="icon-arrow-right13"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -2789,18 +2789,18 @@
 
                                 <li class="media">
                                     <div class="media-left">
-                                        <a href="index.html#" class="btn border-warning-400 text-warning-400 btn-flat btn-rounded btn-icon btn-xs"><i class="icon-spinner11"></i></a>
+                                        <a href="index.php#" class="btn border-warning-400 text-warning-400 btn-flat btn-rounded btn-icon btn-xs"><i class="icon-spinner11"></i></a>
                                     </div>
 
                                     <div class="media-body">
-                                        Order <a href="index.html#">#37745</a> from July, 1st has been refunded
+                                        Order <a href="index.php#">#37745</a> from July, 1st has been refunded
                                         <div class="media-annotation">4 minutes ago</div>
                                     </div>
 
                                     <div class="media-right media-middle">
                                         <ul class="icons-list">
                                             <li>
-                                                <a href="index.html#"><i class="icon-arrow-right13"></i></a>
+                                                <a href="index.php#"><i class="icon-arrow-right13"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -2808,18 +2808,18 @@
 
                                 <li class="media">
                                     <div class="media-left">
-                                        <a href="index.html#" class="btn border-teal-400 text-teal btn-flat btn-rounded btn-icon btn-xs"><i class="icon-redo2"></i></a>
+                                        <a href="index.php#" class="btn border-teal-400 text-teal btn-flat btn-rounded btn-icon btn-xs"><i class="icon-redo2"></i></a>
                                     </div>
 
                                     <div class="media-body">
-                                        Invoice <a href="index.html#">#4769</a> has been sent to <a href="index.html#">Robert Smith</a>
+                                        Invoice <a href="index.php#">#4769</a> has been sent to <a href="index.php#">Robert Smith</a>
                                         <div class="media-annotation">Dec 12, 05:46</div>
                                     </div>
 
                                     <div class="media-right media-middle">
                                         <ul class="icons-list">
                                             <li>
-                                                <a href="index.html#"><i class="icon-arrow-right13"></i></a>
+                                                <a href="index.php#"><i class="icon-arrow-right13"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -2851,14 +2851,14 @@
 
     <div class="navbar-collapse collapse" id="footer">
         <div class="navbar-text">
-            &copy; 2015. <a href="index.html#" class="navbar-link">Limitless Web App Kit</a> by <a href="http://themeforest.net/user/Kopyov" class="navbar-link" target="_blank">Eugene Kopyov</a>
+            &copy; 2015. <a href="index.php#" class="navbar-link">Limitless Web App Kit</a> by <a href="http://themeforest.net/user/Kopyov" class="navbar-link" target="_blank">Eugene Kopyov</a>
         </div>
 
         <div class="navbar-right">
             <ul class="nav navbar-nav">
-                <li><a href="index.html#">About</a></li>
-                <li><a href="index.html#">Terms</a></li>
-                <li><a href="index.html#">Contact</a></li>
+                <li><a href="index.php#">About</a></li>
+                <li><a href="index.php#">Terms</a></li>
+                <li><a href="index.php#">Contact</a></li>
             </ul>
         </div>
     </div>

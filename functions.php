@@ -29,7 +29,7 @@ function fetchExperiments($user,$role){
                     </td>
                     <td>
                         <div class=\"media-left media-middle\">
-                            <a href=\"index.html#\" class=\"btn bg-".$color."-400 btn-rounded btn-icon btn-xs\">
+                            <a href=\"index.php#\" class=\"btn bg-".$color."-400 btn-rounded btn-icon btn-xs\">
                                 <span class=\"letter-icon\"></span>
                             </a>
                         </div>
@@ -39,7 +39,7 @@ function fetchExperiments($user,$role){
                         </div>
                     </td>
                     <td>
-                        <a href=\"index.html#\" class=\"text-default display-inline-block\">
+                        <a href=\"index.php#\" class=\"text-default display-inline-block\">
                             <span class=\"text-semibold\">".$a['title']."</span>
                         </a>
                     </td>

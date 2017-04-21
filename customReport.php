@@ -65,7 +65,7 @@
     <!-- Main navbar -->
     <div class="navbar navbar-inverse">
         <div class="navbar-header">
-            <a class="navbar-brand" href="index.html">PensionCalculator</a>
+            <a class="navbar-brand" href="index.php">PensionCalculator</a>
             <!-- <a class="navbar-brand" href="index.html"><img src="assets/images/logo_light.png" alt=""></a> -->
 
             <ul class="nav navbar-nav pull-right visible-xs-block">
