@@ -1,3 +1,7 @@
+// Code below was developed with the help of :
+// Limitless - Responsive Web Application Kit
+// By: Eugene Kopyov
+
 <?php
 session_start();
 require_once 'functions.php';
@@ -10,7 +14,7 @@ $user=$_SESSION['user'];
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>RGU</title>
+    <title>EAMON-Ethical Approval Monitoring for RGU Experiments</title>
 
     <!-- Global stylesheets -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
@@ -53,40 +57,9 @@ $user=$_SESSION['user'];
 
 <body class="navbar-bottom">
 
-<!-- Main navbar -->
-<div class="navbar navbar-inverse">
-    <div class="navbar-header">
-        <a class="navbar-brand" href=""><b>RGU</b>- experiment portal</a>
-
-        <ul class="nav navbar-nav visible-xs-block">
-            <li><a data-toggle="collapse" data-target="#navbar-mobile"><i class="icon-tree5"></i></a></li>
-            <li><a class="sidebar-mobile-main-toggle"><i class="icon-paragraph-justify3"></i></a></li>
-        </ul>
-    </div>
-
-    <div class="navbar-collapse collapse" id="navbar-mobile">
-        <ul class="nav navbar-nav">
-            <li><a class="sidebar-control sidebar-main-toggle hidden-xs"><i class="icon-paragraph-justify3"></i></a></li>
-
-        </ul>
-
-
-        <ul class="nav navbar-nav navbar-right">
-
-            <li class="dropdown dropdown-user">
-                <a class="dropdown-toggle" data-toggle="dropdown">
-                    <span><?php echo $user; ?></span>
-                    <i class="caret"></i>
-                </a>
-
-                <ul class="dropdown-menu dropdown-menu-right">
-                    <li><a href="#"><i class="icon-switch2"></i> Logout</a></li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-</div>
-<!-- /main navbar -->
+<?php
+include 'header.php';
+?>
 
 
 <!-- Page header -->
@@ -122,7 +95,7 @@ $user=$_SESSION['user'];
     <div class="page-content">
 
         <?php
-        include 'navigation.html';
+        include 'navigation.php';
         ?>
 
 
@@ -182,9 +155,6 @@ $user=$_SESSION['user'];
     </ul>
 
     <div class="navbar-collapse collapse" id="footer">
-        <div class="navbar-text">
-            &copy; 2015. <a href="#" class="navbar-link">Limitless Web App Kit</a> by <a href="http://themeforest.net/user/Kopyov" class="navbar-link" target="_blank">Eugene Kopyov</a>
-        </div>
 
         <div class="navbar-right">
             <ul class="nav navbar-nav">
